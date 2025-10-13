@@ -95,3 +95,18 @@ print(tuple1, tuple2)
 # Sets 
 new_set = {1,2,3,4,5}
 print(new_set)
+
+str_set={'America', 'Pakistan', 'India', 'England', 'South Africa'}
+print(str_set)
+
+str_set_2={'America', 'Pakistan', 'India', 'England', 'South Africa' , 'America'}
+print(str_set_2) # Will output repeated values as one
+
+print('Pakistan' in str_set)
+
+
+str_set_2={'America', 'Pakistan', 'Afghanistan', 'UAE', 'Qatar'}
+
+print(str_set.intersection(str_set_2)) # Will give output of the elements in str_set same in str_set_2
+print(str_set.difference(str_set_2)) # Will give output of the different elements in str_set, which are not is str_set_2
+print(str_set.union(str_set_2)) # Union of elements of str_set with elements of str_set_2
