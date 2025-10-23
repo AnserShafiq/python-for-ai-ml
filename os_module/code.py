@@ -81,3 +81,8 @@ os.path.exists(filepath)
 
 os.path.isdir(filepath) # To check is the given path pointing to directory
 os.path.isdir(os.environ.get('USERPROFILE')) 
+
+
+os.path.isfile(filepath) # To check the given path is pointing to a file.
+
+os.path.splitext(filepath) # Will give the path of the file from the given path and the type of the file.
