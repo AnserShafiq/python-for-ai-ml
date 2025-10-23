@@ -1,10 +1,7 @@
 print('Imported my_module')
-
-
 test = 'Test command'
-
 def fetchIndexNumber(arr, toCheck):
-      for i in arr: 
-            if i == toCheck: 
+      for i,value in enumerate(arr): 
+            if value == toCheck: 
                   return i
-      return 'Not found'
+      return -1
