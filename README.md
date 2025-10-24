@@ -1,6 +1,6 @@
-# Python for AI/ML - Learning Repository
+# Python Practice Repository
 
-This repository contains Python programming exercises covering fundamental concepts essential for AI and Machine Learning development.
+This repository contains Python programming exercises covering fundamental concepts for refreshing and strengthening Python programming skills.
 
 ## 📋 Topics Covered
 
@@ -26,8 +26,8 @@ python folder_name/code.py
 
 ## 📚 Purpose
 
-This collection provides essential Python skills for AI/ML development including data manipulation, file processing, and algorithm implementation.
+This collection provides practice exercises for fundamental Python concepts including data manipulation, file processing, and programming fundamentals.
 
 ---
 
-*Foundation for Python programming in AI and Machine Learning*
+*General Python practice for refreshing concepts and building programming skills*
